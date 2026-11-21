@@ -4,527 +4,153 @@
   "ret_pct": 1.0,
   "cum_pct": 1.0,
   "win_pct": 67,
-  "uptime_h": 0.0,
-  "top": [
-   {
-    "coin": "CAMP",
-    "share_pct": 44,
-    "up": true
-   },
-   {
-    "coin": "MPLX",
-    "share_pct": 15,
-    "up": true
-   },
-   {
-    "coin": "BLUR",
-    "share_pct": 12,
-    "up": true
-   }
-  ]
+  "uptime_h": 0.0
  },
  {
   "date": "2026-10-31",
   "ret_pct": 0.51,
   "cum_pct": 1.51,
   "win_pct": 74,
-  "uptime_h": 0.0,
-  "top": [
-   {
-    "coin": "SPK",
-    "share_pct": 14,
-    "up": false
-   },
-   {
-    "coin": "CUDIS",
-    "share_pct": 13,
-    "up": true
-   },
-   {
-    "coin": "RAD",
-    "share_pct": 11,
-    "up": true
-   }
-  ]
+  "uptime_h": 0.0
  },
  {
   "date": "2026-11-01",
   "ret_pct": -0.66,
   "cum_pct": 0.85,
   "win_pct": 71,
-  "uptime_h": 15.9,
-  "top": [
-   {
-    "coin": "HOOK",
-    "share_pct": 45,
-    "up": false
-   },
-   {
-    "coin": "D",
-    "share_pct": 39,
-    "up": true
-   },
-   {
-    "coin": "CUDIS",
-    "share_pct": 5,
-    "up": true
-   }
-  ]
+  "uptime_h": 15.9
  },
  {
   "date": "2026-11-02",
   "ret_pct": 10.16,
   "cum_pct": 11.09,
   "win_pct": 73,
-  "uptime_h": 20.1,
-  "top": [
-   {
-    "coin": "HOOK",
-    "share_pct": 31,
-    "up": true
-   },
-   {
-    "coin": "D",
-    "share_pct": 30,
-    "up": false
-   },
-   {
-    "coin": "SOPH",
-    "share_pct": 22,
-    "up": true
-   }
-  ]
+  "uptime_h": 20.1
  },
  {
   "date": "2026-11-03",
   "ret_pct": 1.01,
   "cum_pct": 12.21,
   "win_pct": 88,
-  "uptime_h": 23.9,
-  "top": [
-   {
-    "coin": "FANC",
-    "share_pct": 32,
-    "up": true
-   },
-   {
-    "coin": "SOPH",
-    "share_pct": 14,
-    "up": true
-   },
-   {
-    "coin": "UOS",
-    "share_pct": 10,
-    "up": true
-   }
-  ]
+  "uptime_h": 23.9
  },
  {
   "date": "2026-11-04",
   "ret_pct": 0.41,
   "cum_pct": 12.67,
   "win_pct": 84,
-  "uptime_h": 23.8,
-  "top": [
-   {
-    "coin": "FANC",
-    "share_pct": 17,
-    "up": true
-   },
-   {
-    "coin": "AZIT",
-    "share_pct": 17,
-    "up": true
-   },
-   {
-    "coin": "SOPH",
-    "share_pct": 16,
-    "up": true
-   }
-  ]
+  "uptime_h": 23.8
  },
  {
   "date": "2026-11-05",
   "ret_pct": 0.31,
   "cum_pct": 13.01,
   "win_pct": 89,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "PYBOBO",
-    "share_pct": 49,
-    "up": true
-   },
-   {
-    "coin": "DEBIT",
-    "share_pct": 14,
-    "up": true
-   },
-   {
-    "coin": "WLD",
-    "share_pct": 14,
-    "up": true
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-06",
   "ret_pct": 0.65,
   "cum_pct": 13.75,
   "win_pct": 92,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "PYBOBO",
-    "share_pct": 43,
-    "up": true
-   },
-   {
-    "coin": "ACX",
-    "share_pct": 26,
-    "up": true
-   },
-   {
-    "coin": "MAGMA",
-    "share_pct": 15,
-    "up": true
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-07",
   "ret_pct": -1.03,
   "cum_pct": 12.57,
   "win_pct": 68,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "ACX",
-    "share_pct": 30,
-    "up": true
-   },
-   {
-    "coin": "CYBER",
-    "share_pct": 24,
-    "up": false
-   },
-   {
-    "coin": "MAGMA",
-    "share_pct": 13,
-    "up": false
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-08",
   "ret_pct": 0.48,
   "cum_pct": 13.11,
   "win_pct": 91,
-  "uptime_h": 23.9,
-  "top": [
-   {
-    "coin": "CUDIS",
-    "share_pct": 24,
-    "up": true
-   },
-   {
-    "coin": "ACX",
-    "share_pct": 24,
-    "up": true
-   },
-   {
-    "coin": "PYBOBO",
-    "share_pct": 24,
-    "up": true
-   }
-  ]
+  "uptime_h": 23.9
  },
  {
   "date": "2026-11-09",
   "ret_pct": 1.17,
   "cum_pct": 14.43,
   "win_pct": 89,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "ZIL",
-    "share_pct": 15,
-    "up": true
-   },
-   {
-    "coin": "CUDIS",
-    "share_pct": 10,
-    "up": true
-   },
-   {
-    "coin": "ACX",
-    "share_pct": 9,
-    "up": true
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-10",
   "ret_pct": -0.19,
   "cum_pct": 14.21,
   "win_pct": 79,
-  "uptime_h": 23.7,
-  "top": [
-   {
-    "coin": "CYBER",
-    "share_pct": 12,
-    "up": true
-   },
-   {
-    "coin": "MAY",
-    "share_pct": 11,
-    "up": true
-   },
-   {
-    "coin": "CUDIS",
-    "share_pct": 11,
-    "up": true
-   }
-  ]
+  "uptime_h": 23.7
  },
  {
   "date": "2026-11-11",
   "ret_pct": 0.7,
   "cum_pct": 15.02,
   "win_pct": 74,
-  "uptime_h": 17.0,
-  "top": [
-   {
-    "coin": "BIOT",
-    "share_pct": 17,
-    "up": true
-   },
-   {
-    "coin": "MAY",
-    "share_pct": 15,
-    "up": true
-   },
-   {
-    "coin": "NCT",
-    "share_pct": 11,
-    "up": true
-   }
-  ]
+  "uptime_h": 17.0
  },
  {
   "date": "2026-11-12",
   "ret_pct": 2.24,
   "cum_pct": 17.59,
   "win_pct": 83,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "MAY",
-    "share_pct": 26,
-    "up": true
-   },
-   {
-    "coin": "AL",
-    "share_pct": 15,
-    "up": true
-   },
-   {
-    "coin": "SOPH",
-    "share_pct": 8,
-    "up": true
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-13",
   "ret_pct": 1.63,
   "cum_pct": 19.5,
   "win_pct": 75,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "MAY",
-    "share_pct": 26,
-    "up": true
-   },
-   {
-    "coin": "CUDIS",
-    "share_pct": 13,
-    "up": true
-   },
-   {
-    "coin": "FANC",
-    "share_pct": 11,
-    "up": true
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-14",
   "ret_pct": -1.24,
   "cum_pct": 18.02,
   "win_pct": 72,
-  "uptime_h": 23.8,
-  "top": [
-   {
-    "coin": "SOPH",
-    "share_pct": 16,
-    "up": true
-   },
-   {
-    "coin": "FANC",
-    "share_pct": 16,
-    "up": false
-   },
-   {
-    "coin": "STAT",
-    "share_pct": 11,
-    "up": true
-   }
-  ]
+  "uptime_h": 23.8
  },
  {
   "date": "2026-11-15",
   "ret_pct": 4.72,
   "cum_pct": 23.59,
   "win_pct": 77,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "FANC",
-    "share_pct": 14,
-    "up": true
-   },
-   {
-    "coin": "EGG",
-    "share_pct": 13,
-    "up": true
-   },
-   {
-    "coin": "CUDIS",
-    "share_pct": 12,
-    "up": true
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-16",
   "ret_pct": -0.28,
   "cum_pct": 23.24,
   "win_pct": 80,
-  "uptime_h": 23.0,
-  "top": [
-   {
-    "coin": "CAMP",
-    "share_pct": 35,
-    "up": true
-   },
-   {
-    "coin": "SOPH",
-    "share_pct": 13,
-    "up": true
-   },
-   {
-    "coin": "CUDIS",
-    "share_pct": 8,
-    "up": false
-   }
-  ]
+  "uptime_h": 23.0
  },
  {
   "date": "2026-11-17",
   "ret_pct": -0.26,
   "cum_pct": 22.92,
   "win_pct": 74,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "CAMP",
-    "share_pct": 44,
-    "up": false
-   },
-   {
-    "coin": "KAVA",
-    "share_pct": 11,
-    "up": true
-   },
-   {
-    "coin": "MANTRA",
-    "share_pct": 9,
-    "up": false
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-18",
   "ret_pct": 0.11,
   "cum_pct": 23.06,
   "win_pct": 88,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "CAMP",
-    "share_pct": 47,
-    "up": false
-   },
-   {
-    "coin": "PIEVERSE",
-    "share_pct": 18,
-    "up": true
-   },
-   {
-    "coin": "KAVA",
-    "share_pct": 10,
-    "up": true
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-19",
   "ret_pct": 0.93,
   "cum_pct": 24.2,
   "win_pct": 79,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "CAMP",
-    "share_pct": 26,
-    "up": true
-   },
-   {
-    "coin": "PIEVERSE",
-    "share_pct": 20,
-    "up": false
-   },
-   {
-    "coin": "HUMA",
-    "share_pct": 14,
-    "up": true
-   }
-  ]
+  "uptime_h": 24.0
  },
  {
   "date": "2026-11-20",
   "ret_pct": 1.56,
   "cum_pct": 26.14,
   "win_pct": 75,
-  "uptime_h": 24.0,
-  "top": [
-   {
-    "coin": "CAMP",
-    "share_pct": 31,
-    "up": true
-   },
-   {
-    "coin": "KAVA",
-    "share_pct": 12,
-    "up": true
-   },
-   {
-    "coin": "PIEVERSE",
-    "share_pct": 10,
-    "up": true
-   }
-  ]
+  "uptime_h": 24.0
  }
 ]
