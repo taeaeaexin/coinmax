@@ -159,5 +159,12 @@
   "cum_pct": 27.84,
   "win_pct": 86,
   "uptime_h": 24.0
+ },
+ {
+  "date": "2026-11-22",
+  "ret_pct": 0.79,
+  "cum_pct": 28.85,
+  "win_pct": 79,
+  "uptime_h": 24.0
  }
 ]
